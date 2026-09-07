@@ -239,3 +239,6 @@ This repository serves as the official landing page for Age of Conquest. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Age of Conquest today!**
+
+---
+**Last updated:** 2026-09-07 00:28:55 UTC
