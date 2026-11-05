@@ -241,4 +241,4 @@ This repository serves as the official landing page for Age of Conquest. The sof
 **Get the most recent version of Age of Conquest today!**
 
 ---
-**Last updated:** 2026-11-05 00:36:57 UTC
+**Last updated:** 2026-11-05 07:31:46 UTC
